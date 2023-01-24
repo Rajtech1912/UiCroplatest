@@ -1,0 +1,529 @@
+ /* Dashboard css       
+
+.assign-1 div{
+  width: 86px;
+  height: 88px;
+    background-color:white;
+    border-radius: 50%;
+    float:left;
+    border: 3px solid #05D5D3;
+    margin: -8px 10px -8px -45px;
+    display: inline-block;
+    counter-increment: count;
+}
+.dashborder{
+    border-radius:50px 7px 7px 50px !important;
+    width:250px!important;
+    margin-left:40px;
+   background-color: #05D5D3;
+    
+}
+
+.ptext{
+    display:inline-block;
+    position:relative;
+    color:black;
+    left:-66px;
+    top:17px;
+
+
+} */
+/* Fpo div css */
+.fpocontainer-1 div{
+  width: 84px;
+  height: 88px;
+  background-color:white;
+  border-radius: 50%;
+  float:left;
+  border: 3px solid #05D5D3;
+  margin: -8px 10px -8px -39px;
+  display: inline-block;
+  counter-increment: count;
+}
+.fpocontainer{
+  border-radius:55px 7px 7px 55px !important;
+  width:240px!important;
+  margin-left:40px;
+ background-color: #05D5D3;
+}
+.fpocontainer a{
+  text-decoration: none;
+  color:white;
+  display:inline-block;
+  margin:28px 41px 11px 130px;
+}
+.fpocontainer img{
+  width:50px;
+  height:50px;
+  margin-top:8px;
+}
+.pfpocontainer{
+  display:inline-block;
+  position:relative;
+  color:black;
+  left:-70px;
+  top:25px;
+
+
+}
+/* individuals div css */
+.individualscontainer-1 div{
+  width: 86px;
+  height: 88px;
+  background-color:white;
+  border-radius: 50%;
+  float:left;
+  border: 3px solid #5D4DA4;
+  margin: -8px 10px -8px -39px;
+  display: inline-block;
+  counter-increment: count;
+}
+.individualscontainer{
+  border-radius:50px 7px 7px 50px !important;
+  width:250px!important;
+  margin-left:40px;
+ background-color: #5D4DA4;
+}
+.individualscontainer h6{
+  display:inline-block;
+  margin:28px 41px 11px 130px;
+}
+.individualscontainer img{
+  width:50px;
+  height:50px;
+  margin-top:8px;
+}
+.pindividualscontainer{
+  display:inline-block;
+  position:relative;
+  color:black;
+  left:-70px;
+  top:25px;
+
+
+}
+/* corporates css */
+
+.corporates-1 div{
+  width: 86px;
+  height: 88px;
+  background-color:white;
+  border-radius: 50%;
+  float:left;
+  border: 3px solid #1c9eaffb;
+  margin: -8px 10px -8px -39px;
+  display: inline-block;
+  counter-increment: count;
+}
+.corporates{
+  border-radius:50px 7px 7px 50px !important;
+  width:250px!important;
+  margin-left:40px;
+ background-color: #1c9eaffb;
+}
+.corporates h6{
+  display:inline-block;
+  margin:28px 41px 11px 130px;
+}
+.corporates img{
+  width:50px;
+  height:50px;
+  margin-top:8px;
+}
+.pcorporates{
+  display:inline-block;
+  position:relative;
+  color:black;
+  left:-70px;
+  top:25px;
+
+
+}
+/* farmers css */
+.farmers-1 div{
+  width: 86px;
+  height: 88px;
+  background-color:white;
+  border-radius: 50%;
+  float:left;
+  border: 3px solid #fd3e3efb;
+  margin: -8px 10px -8px -39px;
+  display: inline-block;
+  counter-increment: count;
+}
+.farmers{
+  border-radius:50px 7px 7px 50px !important;
+  width:250px!important;
+  margin-left:40px;
+ background-color: #fd3e3efb;
+}
+.farmers h6{
+  display:inline-block;
+  margin:28px 41px 11px 130px;
+}
+.farmers img{
+  width:50px;
+  height:50px;
+  margin-top:8px;
+}
+.pfarmers{
+  display:inline-block;
+  position:relative;
+  color:black;
+  left:-70px;
+  top:25px;
+
+
+}
+
+/* cropinsurance css */
+.cropinsurance-1 div{
+  width: 86px;
+  height: 88px;
+  background-color:white;
+  border-radius: 50%;
+  float:left;
+  border: 3px solid #e2f110fb;
+  margin: -8px 10px -8px -39px;
+  display: inline-block;
+  counter-increment: count;
+}
+.cropinsurance{
+  border-radius:50px 7px 7px 50px !important;
+  width:250px!important;
+  margin-left:40px;
+ background-color: #e2f110fb;;
+}
+.cropinsurance h6{
+  display:inline-block;
+  margin:28px 41px 11px 130px;
+}
+.cropinsurance img{
+  width:50px;
+  height:50px;
+  margin-top:8px;
+}
+.pcropinsurance{
+  display:inline-block;
+  position:relative;
+  color:black;
+  left:-70px;
+  top:25px;
+
+
+}
+/* fertillizercompanies css */
+.fertillizercompanies-1 div{
+  width: 86px;
+  height: 88px;
+  background-color:white;
+  border-radius: 50%;
+  float:left;
+  border: 3px solid #eb11cefb;
+  margin: -8px 10px -8px -39px;
+  display: inline-block;
+  counter-increment: count;
+}
+.fertillizercompanies{
+  border-radius:50px 7px 7px 50px !important;
+  width:250px!important;
+  margin-left:40px;
+ background-color: #eb11cefb;;
+}
+.fertillizercompanies h6{
+  display:inline-block;
+  margin:25px 41px 11px 130px;
+  font-size: 15px;
+}
+.fertillizercompanies img{
+  width:50px;
+  height:50px;
+  margin-top:8px;
+}
+.pfertillizercompanies{
+  display:inline-block;
+  position:relative;
+  color:black;
+  left:-70px;
+  top:25px;
+
+
+}
+/* farmmachinery css */
+.farmmachinery-1 div{
+  width: 86px;
+  height: 88px;
+  background-color:white;
+  border-radius: 50%;
+  float:left;
+  border: 3px solid #31f50afb;
+  margin: -8px 10px -8px -39px;
+  display: inline-block;
+  counter-increment: count;
+}
+.farmmachinery{
+  border-radius:50px 7px 7px 50px !important;
+  width:250px!important;
+  margin-left:40px;
+ background-color: #31f50afb;;
+}
+.farmmachinery h6{
+  display:inline-block;
+  margin:28px 41px 11px 130px;
+}
+.farmmachinery img{
+  width:50px;
+  height:50px;
+  margin-top:8px;
+}
+.pfarmmachinery{
+  display:inline-block;
+  position:relative;
+  color:black;
+  left:-70px;
+  top:25px;
+
+
+}
+/* traders css */
+.traders-1 div{
+  width: 86px;
+  height: 88px;
+  background-color:white;
+  border-radius: 50%;
+  float:left;
+  border: 3px solid #a10b95fb;;
+  margin: -8px 10px -8px -39px;
+  display: inline-block;
+  counter-increment: count;
+}
+.traders{
+  border-radius:50px 7px 7px 50px !important;
+  width:250px!important;
+  margin-left:40px;
+ background-color: #a10b95fb;;
+}
+.traders h6{
+  display:inline-block;
+  margin:28px 41px 11px 130px;
+}
+.traders img{
+  width:50px;
+  height:50px;
+  margin-top:8px;
+}
+.ptraders{
+  display:inline-block;
+  position:relative;
+  color:black;
+  left:-70px;
+  top:25px;
+
+
+}
+/* seedcompanies css */
+.seedcompanies-1 div{
+  width: 86px;
+  height: 88px;
+  background-color:white;
+  border-radius: 50%;
+  float:left;
+  border: 3px solid #e44d12fb;
+  margin: -8px 10px -8px -39px;
+  display: inline-block;
+  counter-increment: count;
+}
+.seedcompanies{
+  border-radius:50px 7px 7px 50px !important;
+  width:250px!important;
+  margin-left:40px;
+ background-color: #e44d12fb;;
+}
+.seedcompanies h6{
+  display:inline-block;
+  margin:28px 41px 11px 130px;
+}
+.seedcompanies img{
+  width:50px;
+  height:50px;
+  margin-top:8px;
+}
+.pseedcompanies{
+  display:inline-block;
+  position:relative;
+  color:black;
+  left:-70px;
+  top:25px;
+}
+/* dealers css  */
+.dealers-1 div{
+  width: 86px;
+  height: 88px;
+  background-color:white;
+  border-radius: 50%;
+  float:left;
+  border: 3px solid #ff4800fb;
+  margin: -8px 10px -8px -39px;
+  display: inline-block;
+  counter-increment: count;
+}
+.dealers{
+  border-radius:50px 7px 7px 50px !important;
+  width:250px!important;
+  margin-left:40px;
+ background-color: #ff4800fb;;
+}
+.dealers h6{
+  display:inline-block;
+  margin:28px 41px 11px 130px;
+}
+.dealers img{
+  width:50px;
+  height:50px;
+  margin-top:8px;
+}
+.pdealers{
+  display:inline-block;
+  position:relative;
+  color:black;
+  left:-70px;
+  top:25px;
+}
+/* others css */
+.Others-1 div{
+  width: 86px;
+  height: 88px;
+  background-color:white;
+  border-radius: 50%;
+  float:left;
+  border: 3px solid #5D4DA4;
+  margin: -8px 10px -8px -39px;
+  display: inline-block;
+  counter-increment: count;
+}
+.Others{
+  border-radius:50px 7px 7px 50px !important;
+  width:250px!important;
+  margin-left:40px;
+ background-color: #5D4DA4;
+}
+.Others h6{
+  display:inline-block;
+  margin:28px 41px 11px 130px;
+}
+.Others img{
+  width:50px;
+  height:50px;
+  margin-top:7px;
+}
+.pOthers{
+  display:inline-block;
+  position:relative;
+  color:black;
+  left:-70px;
+  top:25px;
+}
+/* others1 css */
+.others1-1 div{
+  width: 86px;
+  height: 88px;
+  background-color:white;
+  border-radius: 50%;
+  float:left;
+  border: 3px solid #5D4DA4;
+  margin: -8px 10px -8px -39px;
+  display: inline-block;
+  counter-increment: count;
+}
+.others1{
+  border-radius:50px 7px 7px 50px !important;
+  width:250px!important;
+  margin-left:40px;
+ background-color: #5D4DA4;
+}
+.others1 h6{
+  display:inline-block;
+  margin:28px 41px 11px 130px;
+}
+.Others1 img{
+  width:50px;
+  height:50px;
+  margin-top:8px;
+}
+.pothers1{
+  display:inline-block;
+  position:relative;
+  color:black;
+  left:-70px;
+  top:25px;
+}
+/* register page css */
+label {
+    font-weight: 600;
+    color: #666;
+}
+body {
+  background: #f1f1f1 !important;
+}
+.box8{
+  box-shadow: 0px 0px 5px 1px #999;
+}
+.mx-t3{
+  margin-top: -3rem;
+}
+ /* registerasdasboard  page css */
+ .margin{
+margin-top:-50px;
+ }
+
+/* Register as page css */
+.registeras{
+  /* display:inline-block; */
+  margin-top:10px;
+  margin-left:70px;
+  font-size: 25px;
+
+}
+/* fpo register page */
+
+.registerasfpo{
+  margin-left:260px;
+}
+/* Login page css */
+.account{
+  text-decoration:none;
+  color:grey;
+}
+.account a:hover{
+  color:blue;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .checkbox {
+  font-weight: 400;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
